@@ -6,18 +6,7 @@
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
    <IGNORE>
-    <item>/src/Z_I_PurchDocOvrallPrice.abap</item>
-    <item>/src/Z_I_PurchaseDoc.abap</item>
-    <item>/src/Z_I_PurchaseDocItem.abap</item>
-    <item>/src/readme.md</item>
-    <item>/src/z_tf_overall_price.abap</item>
-    <item>/src/zcl_amdp_purchoverallprice.abap</item>
-    <item>/src/zcl_insert_tabl_rec.abap</item>
-    <item>/src/zcl_overall_price_test.abap</item>
-    <item>/src/zcl_overall_price_test_h.abap</item>
-    <item>/src/zpurchdoc.abap</item>
-    <item>/src/zpurchdocitm.abap</item>
-    <item>/src/ztf_amdp_lvl1.abap</item>
+
    </IGNORE>
   </DATA>
  </asx:values>
